@@ -1,0 +1,27 @@
+.grid{
+      padding: 150px 560px;
+      border: 10%;
+      
+}
+.dwln-btn {
+    margin: 10px 0;
+    padding: 20px;
+    border-radius: 5px;
+    display: block;
+    width: 300px;
+}
+
+.background{
+    background-color: #37384e ;
+    height: 860px;
+}
+.size{
+    width: 350px;
+    padding: 50px;
+    
+    
+}
+h2{
+    font-family:  'Roboto', sans-serif;
+    font-weight: 600;
+}
